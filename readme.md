@@ -1,4 +1,5 @@
-Ken Wong
-20733388
+Name: Ken Wong
+
+ID: 20733388
 
 ![alt text](screenshot.PNG)
